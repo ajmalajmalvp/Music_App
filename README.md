@@ -1,16 +1,34 @@
-# flutter_project_week8
+# MUSIC PLAYER APP
 
-A new Flutter project.
+it's offline music player
 
-## Getting Started
+## Features:-
+   . List all songs from local storage
+   . Play/Pause
+   . Next/Previous
+   . Search
+   . Share
+   . Themes - volume control technology used - Ui:flutter - database : Hive flutter
+   . Nocation On/off
+   . Song speed Controller 
+   . Add song in to and favorites
+  
+ Pakcages:-
+    .Animatedash screen
+    .Animated text kit 
+    .Audio video progress bar 
+    .Flutter bloc
+    .Hive
+    .Hive flutter
+    .Just audio
+    .Lottie
+    .Just audio background
+    .On Audio Query
+    .Permission handler
+    .provider 
+    .Url launcher
+    .Build runner
+    
+  Screenshots
+     
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
