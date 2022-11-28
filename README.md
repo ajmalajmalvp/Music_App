@@ -29,4 +29,4 @@ it's offline music player
     .Url launcher
     .Build runner
     
--      ### __ Screenshots
+-      ### Screenshots
