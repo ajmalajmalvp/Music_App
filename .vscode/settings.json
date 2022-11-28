@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "cSpell.words": [
+        "Alll",
+        "audioplayers",
+        "autocorrect"
+    ]
+}
